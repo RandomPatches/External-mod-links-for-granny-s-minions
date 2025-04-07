@@ -10,3 +10,5 @@ Mod links:
 [mrcrayfish's furniture mod: Refurbished](https://www.curseforge.com/minecraft/mc-mods/refurbished-furniture)
 
 [Shatterd world limits](https://www.curseforge.com/minecraft/mc-mods/new-world-height-and-depth)
+
+[quark](https://www.curseforge.com/minecraft/mc-mods/quark)
