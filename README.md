@@ -11,4 +11,8 @@ Mod links:
 
 [Shatterd world limits](https://www.curseforge.com/minecraft/mc-mods/new-world-height-and-depth)
 
-[quark](https://www.curseforge.com/minecraft/mc-mods/quark)
+[Quark](https://www.curseforge.com/minecraft/mc-mods/quark)
+
+[Croptopia](https://www.curseforge.com/minecraft/mc-mods/croptopia)
+
+[Etheria](https://www.curseforge.com/minecraft/mc-mods/etheria)
