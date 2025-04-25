@@ -15,4 +15,4 @@ Mod links:
 
 [Croptopia](https://www.curseforge.com/minecraft/mc-mods/croptopia)
 
-[Etheria](https://www.curseforge.com/minecraft/mc-mods/etheria)
+[Etheria](https://www.curseforge.com/minecraft/mc-mods/etheria) Permission for this pack was asked for and granted by one of the mods on the etheria discord for this pack only. If you would also like to use this mod in a modrinth pack please ask yourself
